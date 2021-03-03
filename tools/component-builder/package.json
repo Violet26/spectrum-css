@@ -41,7 +41,7 @@
     "postcss-mixins": "^6.2.1",
     "postcss-nested": "^3.0.0",
     "postcss-svg": "^3.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "replace-ext": "^1.0.0",
     "through2": "^3.0.1"
   }
